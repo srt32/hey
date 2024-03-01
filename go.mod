@@ -1,8 +1,8 @@
 module github.com/rakyll/hey
 
 require (
-	golang.org/x/net v0.0.0-20191009170851-d66e71096ffb
-	golang.org/x/text v0.3.2 // indirect
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
+	golang.org/x/text v0.3.8 // indirect
 )
 
 go 1.13
